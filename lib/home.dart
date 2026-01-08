@@ -156,6 +156,7 @@ class _AddPostPageState extends State<AddPostPage> {
   }
 }
 
+
 void showSnackBar(BuildContext context, String msg) {
   ScaffoldMessenger.of(
     context,
